@@ -35,8 +35,8 @@ The dataset contains household-level consumption data including:
 
 ### Data Cleaning Assumption
 
-The dataset contained `-99` values representing unavailable data.
-For simplification, all `-99` values and missing values were treated as `0` during preprocessing.
+The dataset contained "-99" values representing unavailable data.
+For simplification, all  "-99" values and missing values were treated as  "0" during preprocessing.
 
 ---
 
